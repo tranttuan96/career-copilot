@@ -21,3 +21,5 @@ env/
 # Kaggle/IDE
 .idea/
 .vscode/
+
+docs/journals/
