@@ -1,0 +1,20 @@
+[
+  {
+    "id": "case_1",
+    "cv_text": "Experienced Python Developer with 5 years in backend development. Skills: Python, Django, PostgreSQL.",
+    "jd_text": "Looking for a Senior Backend Engineer. Requirements: Python, FastAPI, Docker, and AWS.",
+    "expected_missing_skills": ["FastAPI", "Docker", "AWS"]
+  },
+  {
+    "id": "case_2",
+    "cv_text": "Frontend Engineer. Built apps with React and TailwindCSS. Contact me at john.doe@email.com or +123456789.",
+    "jd_text": "We need a UI Developer proficient in React, TypeScript, and Redux.",
+    "expected_missing_skills": ["TypeScript", "Redux"]
+  },
+  {
+    "id": "case_3",
+    "cv_text": "Fullstack Developer. Skills: Node.js, React, MongoDB. Built 3 scalable apps.",
+    "jd_text": "Fullstack role. Must know Node.js, React, MongoDB. AWS is a plus but not required.",
+    "expected_missing_skills": []
+  }
+]
